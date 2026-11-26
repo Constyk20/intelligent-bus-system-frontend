@@ -83,7 +83,7 @@ function TransportCard({ cardNumber, holderName, issuedAt }) {
         <div className="flex items-start justify-between">
           <div className="flex items-center">
             <Bus className="w-6 h-6 mr-2 text-blue-300" />
-            <span className="text-lg font-black tracking-widest">ABSU BUS Terminal</span>
+            <span className="text-lg font-black tracking-widest">Nnenna Otti BUS Terminal</span>
           </div>
           <span className="text-[10px] font-semibold tracking-[0.25em] text-blue-100 mt-1">
             TRANSPORT CARD

@@ -75,7 +75,7 @@ export default function DashboardLayout() {
         <div className="h-16 sm:h-20 flex items-center justify-between px-6 border-b border-brand-light shrink-0">
           <div className="flex items-center">
             <Bus className="w-8 h-8 text-brand-accent mr-3" />
-            <span className="text-xl font-bold tracking-wider">ABSU BUS Terminal</span>
+            <span className="text-xl font-bold tracking-wider">Nnenna Otti BUS Terminal</span>
           </div>
           <button
             onClick={() => setSidebarOpen(false)}

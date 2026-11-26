@@ -38,7 +38,7 @@ export default function Login() {
           </div>
         </div>
         <h2 className="mt-6 text-center text-3xl font-extrabold text-slate-800">
-          ABSU BUS Terminal
+          Nnenna Otti BUS Terminal
         </h2>
         <p className="mt-2 text-center text-sm text-gray-600">
           Sign in to access the operations dashboard
